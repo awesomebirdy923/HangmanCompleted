@@ -1,0 +1,11 @@
+You're going to create a program that plays Hang Man!
+
+Step 1: When the program starts, it will ask the user for a number. Then the program will read that many random words -DONE
+		from the "dictionary.txt" file and save them in an ArrayList.
+		
+Step 2: The program will then take the words from the ArrayList and push them onto the stack in a random order. -DONE
+
+Step 3: Pop the word off the top of the stack and display a blank line for all the characters. If the user guesses a letter,
+		fill in the blank. Otherwise, take off a life. Use the jar as a guide.
+		
+Step 4: Admire Ajit Pai's beautiful face. -DONE 24/7
